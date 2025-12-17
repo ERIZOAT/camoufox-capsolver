@@ -24,7 +24,7 @@ This integration ensures your automation scripts appear as legitimate human user
 | Feature | Camoufox Contribution | CapSolver Contribution |
 | :--- | :--- | :--- |
 | **Anti-Detection** | Native C++ fingerprint spoofing (WebGL, Canvas, Fonts, etc.) | N/A |
-| **CAPTCHA Bypass** | N/A | Solves Turnstile, reCAPTCHA v2/v3, hCaptcha, etc. |
+| **CAPTCHA Bypass** | N/A | Solves Turnstile, reCAPTCHA v2/v3, etc. |
 | **Human-Like Behavior** | Built-in mouse movement humanization | Fast, reliable, and consistent solving |
 | **Geo-Location** | Automatic timezone/locale calculation based on proxy IP | N/A |
 
